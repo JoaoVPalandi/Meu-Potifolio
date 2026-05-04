@@ -148,3 +148,16 @@ header{
     width: 50%;
     margin: 20px;
 }
+
+.btn-projetos{
+    background-color: rgb(78, 157, 247);
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 40%;
+    margin: 20px 0 20px 0;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
