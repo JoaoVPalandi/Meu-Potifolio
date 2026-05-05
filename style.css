@@ -161,3 +161,45 @@ header{
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
 }
+
+.skils{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #2e1eb76c;
+    gap: 10px;
+    padding: 40px 20px 40px 20px;
+    margin: 40px 0;
+}
+
+.skils h1{  
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.skils-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 40px;
+    margin: 20px;
+}
+
+.skils-container div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.skils-container div h2{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
